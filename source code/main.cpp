@@ -1,14 +1,4 @@
-/*
 
-Group Members
-
-1. S M NAFIUL HASAN JOY(A18KE4015)
-2. Fauzan Mala Eka Putra (A18KE0312)
-3. Muhammad Fikri Kamiil Azhari (A18KE0318)
-
-contact number: +60137323180
-
-*/
 
 
 #include <stdio.h>
